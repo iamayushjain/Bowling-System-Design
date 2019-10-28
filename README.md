@@ -4,8 +4,8 @@ Execute:
 BowlingGameExecutor.java
 
 Design: 
- * 1) book the lane
- * 2) add players
+ * 1) Book the lane
+ * 2) Add players
  * 3) Start the game
  * 4) On finish display the winner
  * 5) Free the lane for new users
