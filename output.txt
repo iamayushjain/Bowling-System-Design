@@ -1,0 +1,72 @@
+Available lanes: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 
+Available lanes: 2, 3, 4, 5, 6, 7, 8, 9, 10, 
+1=>6 pinned down by user_1
+1=>Spare !!!!! by user_1
+1=>5 pinned down by user_2
+1=>1 pinned down by user_2
+1=>9 pinned down by user_3
+1=>Spare !!!!! by user_3
+---------------------
+2=>7 pinned down by user_1
+2=>2 pinned down by user_1
+2=>1 pinned down by user_2
+2=>7 pinned down by user_2
+2=>Strike !!!!!! by user_3
+---------------------
+3=>8 pinned down by user_1
+3=>Spare !!!!! by user_1
+3=>5 pinned down by user_2
+3=>Spare !!!!! by user_2
+3=>9 pinned down by user_3
+3=>Spare !!!!! by user_3
+---------------------
+4=>5 pinned down by user_1
+4=>2 pinned down by user_1
+4=>6 pinned down by user_2
+4=>3 pinned down by user_2
+4=>5 pinned down by user_3
+4=>Spare !!!!! by user_3
+---------------------
+5=>7 pinned down by user_1
+5=>1 pinned down by user_1
+5=>4 pinned down by user_2
+5=>1 pinned down by user_2
+5=>3 pinned down by user_3
+5=>2 pinned down by user_3
+---------------------
+6=>4 pinned down by user_1
+6=>1 pinned down by user_1
+6=>Strike !!!!!! by user_2
+6=>Strike !!!!!! by user_3
+---------------------
+7=>3 pinned down by user_1
+7=>Spare !!!!! by user_1
+7=>6 pinned down by user_2
+7=>3 pinned down by user_2
+7=>4 pinned down by user_3
+7=>Spare !!!!! by user_3
+---------------------
+8=>4 pinned down by user_1
+8=>4 pinned down by user_1
+8=>1 pinned down by user_2
+8=>8 pinned down by user_2
+8=>5 pinned down by user_3
+8=>2 pinned down by user_3
+---------------------
+9=>2 pinned down by user_1
+9=>3 pinned down by user_1
+9=>5 pinned down by user_2
+9=>3 pinned down by user_2
+9=>6 pinned down by user_3
+9=>Spare !!!!! by user_3
+---------------------
+10=>6 pinned down by user_1
+10=>2 pinned down by user_1
+10=>1 pinned down by user_2
+10=>2 pinned down by user_2
+10=>8 pinned down by user_3
+10=>Spare !!!!! by user_3
+10=>7 pinned down by user_3
+---------------------
+Winner => user_3
+Available lanes: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 
